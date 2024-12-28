@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Alphabet\Alphabet\bin\Debug\net8.0\Alphabet.exe
+C:\Users\User\Desktop\Alphabet\Alphabet\bin\Debug\net8.0\Alphabet.deps.json
+C:\Users\User\Desktop\Alphabet\Alphabet\bin\Debug\net8.0\Alphabet.runtimeconfig.json
+C:\Users\User\Desktop\Alphabet\Alphabet\bin\Debug\net8.0\Alphabet.dll
+C:\Users\User\Desktop\Alphabet\Alphabet\bin\Debug\net8.0\Alphabet.pdb
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.AssemblyInfo.cs
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.dll
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\refint\Alphabet.dll
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.pdb
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\Alphabet.genruntimeconfig.cache
+C:\Users\User\Desktop\Alphabet\Alphabet\obj\Debug\net8.0\ref\Alphabet.dll
